@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kuno Kitsing
-- 👀 I’m interested in Java, Angular, Spring
-- 🌱 I’m currently learning Java, Angular, Spring
+- 👀 I’m interested in Java, Spring, MySQL, Angular, ThymeLeaf
+- 🌱 I’m currently learning Java, Spring, MySQL, Angular, ThymeLeaf
 - 💞️ I’m looking to collaborate on Let me know
 - 📫 How to reach me LinkedIn
 
